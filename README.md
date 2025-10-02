@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I'm passionate about **frontend development**, exp
 
 ## 🌟 About Me
 
-- 💻 **Frontend Developer**: Skilled in **HTML**, **CSS**, and **JavaScript**.
-- 🌱 **Learning**: Currently diving into **C++ Classes** and **Machine Learning**.
-- 🎥 **Content Creator**: Sharing programming knowledge through **YouTube Shorts**.
+- 💻 **Programming Language**: Skilled in **JavaScript**, **TypeScript**, **PHP**, and **Python**.
+- 🌱 **Learning**: Currently diving into **Web Developer** and **Machine Learning**.
 
 ---
 
