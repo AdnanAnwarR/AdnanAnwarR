@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm passionate about **frontend development**, exploring **machine learning**, and creating meaningful projects. Let's connect and build something awesome together! 🚀
+Welcome to my GitHub profile! I'm passionate about **Web development**, exploring **Machine Learning**, and creating meaningful projects. Let's connect and build something awesome together! 🚀
 
 ---
 
