@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about **Web development**, explorin
 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react,laravel,python,vscode&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,expressjs,react,laravel,tailwind,bootstrap,mysql,mongodb,nodejs,github,git,vscode)](https://skillicons.dev)
 
 ---
 
