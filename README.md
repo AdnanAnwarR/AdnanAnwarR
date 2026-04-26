@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm passionate about **Data Science**, **Machine L
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/adnananwar)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/adnananwar)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=internet-explorer&logoColor=white&style=for-the-badge)](https://adnananwar.dev)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://kaggle.com/adnananwar)
+
 
 ---
 
