@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about **Data Science**, **Machine L
 ## 🌟 About Me
 
 - 🤖 **Role**: Data Scientist & Machine Learning Engineer
-- 💻 **Programming Language**: Skilled in **Python**, **SQL**, **R**, and **JavaScript**
+- 💻 **Programming Language**: Skilled in **Python**, **SQL**, and **JavaScript**
 - 🌱 **Learning**: Currently diving into **Deep Learning**, **MLOps**, and **LLM Fine-tuning**
 - 📊 **Focus**: Turning raw data into actionable insights and production-ready ML models
 
