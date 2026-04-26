@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about **Data Science**, **Machine L
 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,mysql,mongodb,docker,git,github,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,fastapi,postgres,docker,git,github,vscode)](https://skillicons.dev)
 
 **Libraries & Frameworks:**
 `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras` · `XGBoost` · `LightGBM` · `HuggingFace` · `OpenCV` · `Matplotlib` · `Seaborn` · `Plotly`
