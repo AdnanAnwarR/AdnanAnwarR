@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Adnan%20Anwar%20Rabbani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Adnan%20Anwar%20Rabbani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,js,html,css,tailwind,react,nextjs,php,laravel,codeigniter,mysql,postgres,mongodb,docker,git,github,vscode&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,js,html,css,tailwind,react,nextjs,php,laravel,mysql,postgres,mongodb,docker,git,github,vscode&theme=dark" alt="tech stack" />
 
 </div>
 
