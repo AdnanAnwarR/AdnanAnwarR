@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Data+Science+%26+Machine+Learning;Membangun+sistem+cerdas+untuk+masalah+nyata;Mahasiswa+Informatika+%40+Udinus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Software+Engineer+%26+AI/ML+Engineer;Membangun+sistem+cerdas+untuk+masalah+nyata;Mahasiswa+Informatika+%40+Udinus)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,js,html,css,php,codeigniter,django,mysql,postgres,mongodb,docker,linux,git,github,vscode&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,js,html,css,tailwind,react,nextjs,php,laravel,codeigniter,mysql,postgres,mongodb,docker,git,github,vscode&theme=dark" alt="tech stack" />
 
 </div>
 
