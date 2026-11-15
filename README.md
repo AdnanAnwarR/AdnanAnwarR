@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Software+Engineer+%26+AI/ML+Engineer;Membangun+sistem+cerdas+untuk+masalah+nyata;Mahasiswa+Informatika+%40+Udinus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Software+Engineer+%26+AI/ML+Engineer;Mahasiswa+Informatika+%40+Udinus)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,16 +42,16 @@
 
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdnanAnwarR&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanAnwarR&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdnanAnwarR&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-
+<a href="https://github.com/AdnanAnwarR/github-stats#gh-dark-mode-only">
+<img src="https://github.com/AdnanAnwarR/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/AdnanAnwarR/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/AdnanAnwarR/github-stats#gh-light-mode-only">
+<img src="https://github.com/AdnanAnwarR/github-stats/blob/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/AdnanAnwarR/github-stats/blob/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
 </div>
 
 ## 🌐 Connect
