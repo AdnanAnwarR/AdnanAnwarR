@@ -1,67 +1,78 @@
-# Hi there! 👋
-Welcome to my GitHub profile! I'm passionate about **Data Science**, **Machine Learning**, and building intelligent systems that solve real-world problems. Let's connect and build something awesome together! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Adnan%20Anwar%20Rabbani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%" alt="header" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Data+Science+%26+Machine+Learning;Membangun+sistem+cerdas+untuk+masalah+nyata;Mahasiswa+Informatika+%40+Udinus)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 🌟 About Me
 
-- 🤖 **Role**: Data Scientist & Machine Learning Engineer
-- 💻 **Programming Language**: Skilled in **Python**, **SQL**, and **JavaScript**
-- 🌱 **Learning**: Currently diving into **Deep Learning**, **MLOps**, and **LLM Fine-tuning**
-- 📊 **Focus**: Turning raw data into actionable insights and production-ready ML models
+- 🎓 Informatics Engineering student, Universitas Dian Nuswantoro (Semarang)
+- 💻 **Bahasa**: Python, SQL, JavaScript
+- 🌱 **Sedang belajar**: Deep Learning, MLOps, LLM / RAG
+- 🎯 **Target**: AI Engineer
+- 📊 **Fokus**: mengubah data mentah menjadi insight dan model ML yang siap dipakai
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies & Tools
+<div align="center">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,fastapi,postgres,docker,git,github,vscode" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,js,html,css,php,codeigniter,django,mysql,postgres,mongodb,docker,linux,git,github,vscode&theme=dark" alt="tech stack" />
 
-**Libraries & Frameworks:**
-`Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras` · `XGBoost` · `HuggingFace` · `OpenCV` · `Matplotlib` · `Seaborn` · `Plotly`
+</div>
 
-**MLOps & Cloud:**
-`MLflow` · `DVC` · `FastAPI` · `Docker` · `Google Cloud` · `Streamlit`
+**Libraries:** `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras` · `XGBoost` · `HuggingFace` · `OpenCV` · `Matplotlib` · `Seaborn` · `Plotly`
 
----
-
-## 🏆 GitHub Trophy
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AdnanAnwarR&theme=radical&no-frame=true&row=1&column=7)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnanAnwarR&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanAnwarR&layout=compact&theme=radical)
-
----
+**MLOps & Cloud:** `MLflow` · `DVC` · `FastAPI` · `Docker` · `Google Cloud` · `Streamlit`
 
 ## 🧠 What I Do
 
-- 🔍 **Exploratory Data Analysis** — uncovering patterns and insights from complex datasets
-- 🤖 **Machine Learning** — building classification, regression, clustering, and recommendation models
-- 🧬 **Deep Learning** — CNN, RNN, Transformers for vision and NLP tasks
-- 📦 **Model Deployment** — serving models via REST APIs with FastAPI and Docker
-- 📈 **Data Visualization** — creating compelling dashboards and visual stories
+| | |
+|---|---|
+| 🔍 **EDA** | Mencari pola dan insight dari dataset |
+| 🤖 **Machine Learning** | Klasifikasi, regresi, clustering, rekomendasi |
+| 🧬 **Deep Learning** | CNN, RNN, Transformer untuk vision & NLP |
+| 📦 **Deployment** | Model jadi REST API dengan FastAPI + Docker |
+| 📈 **Visualisasi** | Dashboard dan cerita dari data |
 
----
+## 🚀 Featured Projects
 
-## 🌐 Connect with Me
+| Proyek | Deskripsi | Teknologi |
+|---|---|---|
+| **[Nama Proyek 1](https://github.com/AdnanAnwarR/repo-1)** | Satu kalimat: masalah yang diselesaikan | Python, Streamlit |
+| **[Nama Proyek 2](https://github.com/AdnanAnwarR/repo-2)** | Satu kalimat: masalah yang diselesaikan | TensorFlow, MobileNetV2 |
+| **[Nama Proyek 3](https://github.com/AdnanAnwarR/repo-3)** | Satu kalimat: masalah yang diselesaikan | Django, PostgreSQL |
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/adnananwar)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/adnananwar)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=internet-explorer&logoColor=white&style=for-the-badge)](https://adnananwar.dev)
+## 📊 GitHub Stats
 
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdnanAnwarR&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanAnwarR&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdnanAnwarR&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+
+</div>
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnananwar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adnananwar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://adnananwar.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnanAnwarR/AdnanAnwarR/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdnanAnwarR/AdnanAnwarR/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdnanAnwarR/AdnanAnwarR/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />
