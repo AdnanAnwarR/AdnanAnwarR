@@ -10,11 +10,7 @@
 
 ## 🌟 About Me
 
-- 🎓 Informatics Engineering student, Universitas Dian Nuswantoro (Semarang)
-- 💻 **Bahasa**: Python, SQL, JavaScript
-- 🌱 **Sedang belajar**: Deep Learning, MLOps, LLM / RAG
-- 🎯 **Target**: AI Engineer
-- 📊 **Fokus**: mengubah data mentah menjadi insight dan model ML yang siap dipakai
+Informatics student at Udinus interested in AI/ML and software engineering. 🎯 Goal: AI Engineer.
 
 ## 🛠️ Tech Stack
 
@@ -29,16 +25,16 @@
 **MLOps & Cloud:** `MLflow` · `DVC` · `FastAPI` · `Docker` · `Google Cloud` · `Streamlit`
 
 ## 🧠 What I Do
- 
+
 | | |
 |---|---|
-| 🤖 **AI / ML Engineering** | Membangun model ML dan sistem AI (RAG, chatbot, computer vision) |
-| ⚙️ **Software Engineering** | Merancang aplikasi, REST API, dan database |
-| 🌐 **Web Development** | Membuat website dan aplikasi web, frontend sampai backend |
-| 🔍 **Data Analysis** | EDA, mencari pola dan insight dari dataset |
-| 🧬 **Deep Learning** | CNN, RNN, Transformer untuk vision & NLP |
-| 📦 **Deployment** | Model jadi REST API dengan FastAPI + Docker |
-| 📈 **Visualisasi** | Dashboard dan cerita dari data |
+| 🤖 **AI / ML Engineering** | Building ML models and AI systems (RAG, chatbots, computer vision) |
+| ⚙️ **Software Engineering** | Designing applications, REST APIs, and databases |
+| 🌐 **Web Development** | Building websites and web apps, from frontend to backend |
+| 🔍 **Data Analysis** | EDA, finding patterns and insights in datasets |
+| 🧬 **Deep Learning** | CNN, RNN, Transformer for vision & NLP |
+| 📦 **Deployment** | Serving models as REST APIs with FastAPI + Docker |
+| 📈 **Visualization** | Dashboards and data storytelling |
 
 
 ## 📊 GitHub Stats
