@@ -29,22 +29,17 @@
 **MLOps & Cloud:** `MLflow` · `DVC` · `FastAPI` · `Docker` · `Google Cloud` · `Streamlit`
 
 ## 🧠 What I Do
-
+ 
 | | |
 |---|---|
-| 🔍 **EDA** | Mencari pola dan insight dari dataset |
-| 🤖 **Machine Learning** | Klasifikasi, regresi, clustering, rekomendasi |
+| 🤖 **AI / ML Engineering** | Membangun model ML dan sistem AI (RAG, chatbot, computer vision) |
+| ⚙️ **Software Engineering** | Merancang aplikasi, REST API, dan database |
+| 🌐 **Web Development** | Membuat website dan aplikasi web, frontend sampai backend |
+| 🔍 **Data Analysis** | EDA, mencari pola dan insight dari dataset |
 | 🧬 **Deep Learning** | CNN, RNN, Transformer untuk vision & NLP |
 | 📦 **Deployment** | Model jadi REST API dengan FastAPI + Docker |
 | 📈 **Visualisasi** | Dashboard dan cerita dari data |
 
-## 🚀 Featured Projects
-
-| Proyek | Deskripsi | Teknologi |
-|---|---|---|
-| **[Nama Proyek 1](https://github.com/AdnanAnwarR/repo-1)** | Satu kalimat: masalah yang diselesaikan | Python, Streamlit |
-| **[Nama Proyek 2](https://github.com/AdnanAnwarR/repo-2)** | Satu kalimat: masalah yang diselesaikan | TensorFlow, MobileNetV2 |
-| **[Nama Proyek 3](https://github.com/AdnanAnwarR/repo-3)** | Satu kalimat: masalah yang diselesaikan | Django, PostgreSQL |
 
 ## 📊 GitHub Stats
 
